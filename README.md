@@ -1,7 +1,7 @@
 # <p align ="center">数据结构（C/C++）</p>
 ## <p align ="center">Data Structure(C/C++)</p>
 ## <p align ="center">2025年秋</p>
-### <p align ="center">课程号：21710017</p>
+### <p align ="center">课程号：********</p>
 ### <p align ="center">人数：32人</p>
 ---
 
